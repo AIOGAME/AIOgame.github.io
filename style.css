@@ -1,0 +1,191 @@
+/*logo*/
+body , head {
+	background-color:black; 
+}
+.logo{
+	display:block;
+	padding:1em;
+	margin-top:5vh;
+	margin-left:60vh; 
+}
+header{
+	background-color:red;
+	width :1352px;
+}
+.home{
+	margin-left:10px;
+	background-color:transparent;
+	padding:0em;  
+	border:none;
+	font-size:20px;
+	font-style:italic;
+	shadow:red;
+	cursor:pointer;
+}
+.about{
+	margin-left:30px; 
+	background-color:transparent;
+	padding:0em;  
+	border:none;
+	font-size:20px;
+	font-style:italic;
+	shadow:red;
+		cursor:pointer;
+}
+.contact{
+	float:right;
+		background-color:transparent;
+	padding:0em;  
+	border:none;
+	font-size:20px;
+	font-style:italic;
+	shadow:red;
+		cursor:pointer;
+}
+@keyframes h1 {
+  from {background-color: red;}
+  to {background-color: green;
+  }
+}
+h1{
+	color:red;
+	font-size:xx-large;
+	float:center; 
+	tetx-align:center;
+	margin-left:10vh;
+	animation-name:h1;
+	animation-duration:infinite; 
+	animation:blink; 
+	margin-bottom:10px : 
+}
+C{
+	color:white;
+	font-size:small;
+	float:center; 
+	tetx-align:center;
+	margin-left:70vh;
+}
+.img{
+	width:150vh; 
+	margin-left:30px;
+}
+.all-menu{
+	background-color:white;
+	border:solid;
+	height:2em;
+
+}
+.ACTION{
+	color:black;
+	display:inline-block;
+	margin-left:2vh;
+	border-spacing:6px;
+	text-decoration:none;
+	font-size:20px;
+
+
+}
+.ARCADE{
+color:black;
+	display:inline-block;
+	margin-left:2vh;
+	border-spacing:6px;
+	text-decoration:none;
+	font-size:20px;
+
+}
+.RACING{
+color:black;
+	display:inline-block;
+	margin-left:2vh;
+	border-spacing:6px;
+	text-decoration:none;
+	font-size:20px;
+
+}
+.HORROR{
+color:black;
+	display:inline-block;
+	margin-left:2vh;
+	border-spacing:6px;
+	text-decoration:none;
+	font-size:20px;
+
+}
+
+.ADVANTURE{
+color:black;
+	display:inline-block;
+	margin-left:2vh;
+	border-spacing:6px;
+	text-decoration:none;
+	font-size:20px;
+
+}
+.OPEN{
+color:black;
+	display:inline-block;
+	margin-left:2vh;
+	border-spacing:6px;
+	text-decoration:none;
+	font-size:20px;
+
+}
+.signin{
+	border:none;
+	float:right;
+	padding:0.6em;
+	font-weight:700;
+	border-radius:300px;  
+	margin-right:1em;
+	background-color:red;
+	color:white;
+}
+
+h2 {
+	background-color:#10e8e4;
+	outline-width:100px;
+	width:600px;
+	margin-left:50vh; 
+	text-align:center; 
+}
+v {
+	color:white;
+	font-size:medium;
+}
+
+
+.GOD {
+	float:center;
+	margin-left:85vh; 
+}
+.GOD3{
+	color:white;
+	float:center;
+	text-align:center;
+}
+.GOD3D{
+	font-weight:700;
+	border-radius:300px;
+	padding:1rem 2rem;
+}
+.GODIII{
+	color:white;
+	text-align:center; 
+}
+h6{
+	font-size:large;
+}
+p {
+	font-size:medium;
+	border:solid;
+	border-color:red;
+	text-decoration:none;  
+}
+h7 {
+	font-size:large;
+
+}
+.shot{
+	width:80vh;
+}
